@@ -39,7 +39,7 @@ Machine Downtime Prediction API
 
 <h2>Installation</h2>
 <p>Clone the repository:</p>
-<pre><code>git clone https://github.com/your-repo-url.git
+<pre><code>git clone https://github.com/HarikaCheruku/Machine-Downtime-Prediction-API
 cd Machine-Downtime-Prediction-API
 </code></pre>
 <p>Install the dependencies:</p>
